@@ -14,29 +14,37 @@ An easy way to place a Aweber form on your Wordpress site.
 
 An easy way to place a Aweber form on your Wordpress site.
 
+###Quick Start Guide
+
+* [Aweber form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/aweber-form-creator/)
+
 ###What you get when you use the Aweber Form Creator plugin
 
 *  Place a Aweber form with a simple shortcode [aweber_form_creator id="%postId%"]
 *  Put Aweber form on any post or page.
 *  Aweber form headline
 *  Aweber form background color
+*  Aweber form name field
+*  Aweber form email field
 *  Aweber form message
 *  Aweber form button
+*  Aweber form list name
 *  Unlimited Aweber forms
 
 ###Add Aweber forms to any post or page
 
 Whether you are writing a post about your company or another company, you can include a well formatted Aweber form.
 
-###Quick Start Guide
+You should spread Aweber forms throughout your site to maximize the number of subscribers.
 
-* [Aweber form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/aweber-form-creator/)
 
 ###Unlimited Aweber forms
 
 Add as many Aweber forms to your site as you like.  The Aweber Form Creator plugin lets you create Aweber forms and save them for when ever you are ready to use them.
 
+###Quick Start Guide
 
+* [Aweber form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/aweber-form-creator/)
 
 == Installation ==
 
