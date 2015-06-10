@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags:   contact form, contact form 7, form, aweber, mailinglist, multisite, newsletter, optin, registration form, shortcode, sign-up form, subscribe, opt-in, mailing list, email form, email marketing, forms, subscribe form, subscription, email, marketing, signup, Aweber form, Aweber plugin, aweber signup form, aweber signup widget, aweber widget, aweber wordpress
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
